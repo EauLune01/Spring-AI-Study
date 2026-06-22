@@ -1,0 +1,16 @@
+2025-07-13T21:50:33.577+09:00  INFO 16760 --- [ch12-mcp-server-stdio-datetime] [Test worker] com.example.demo.DemoApplicationTests    : Starting DemoApplicationTests using Java 21.0.7 with PID 16760 (started by blueskii in D:\Work\ai\book-spring-ai\projects\ch12-mcp-server-stdio-datetime)
+2025-07-13T21:50:33.589+09:00  INFO 16760 --- [ch12-mcp-server-stdio-datetime] [Test worker] com.example.demo.DemoApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T21:50:34.914+09:00  INFO 16760 --- [ch12-mcp-server-stdio-datetime] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-07-13T21:50:35.046+09:00  INFO 16760 --- [ch12-mcp-server-stdio-datetime] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-07-13T21:50:35.052+09:00  INFO 16760 --- [ch12-mcp-server-stdio-datetime] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-07-13T21:50:35.054+09:00  INFO 16760 --- [ch12-mcp-server-stdio-datetime] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-07-13T21:50:35.056+09:00  INFO 16760 --- [ch12-mcp-server-stdio-datetime] [Test worker] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-07-13T21:50:35.353+09:00  INFO 16760 --- [ch12-mcp-server-stdio-datetime] [Test worker] com.example.demo.DemoApplicationTests    : Started DemoApplicationTests in 2.321 seconds (process running for 4.787)
+2025-07-13T21:52:31.579+09:00  INFO 33692 --- [ch12-mcp-server-stdio-datetime] [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.7 with PID 33692 (D:\Work\ai\book-spring-ai\projects\ch12-mcp-server-stdio-datetime\bin\main started by blueskii in D:\Work\ai\book-spring-ai\projects\ch12-mcp-server-stdio-datetime)
+2025-07-13T21:52:31.583+09:00  INFO 33692 --- [ch12-mcp-server-stdio-datetime] [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-07-13T21:52:33.137+09:00  INFO 33692 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-07-13T21:52:33.269+09:00  INFO 33692 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-07-13T21:52:33.270+09:00  INFO 33692 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-07-13T21:52:33.272+09:00  INFO 33692 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-07-13T21:52:33.274+09:00  INFO 33692 --- [ch12-mcp-server-stdio-datetime] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-07-13T21:52:33.709+09:00  INFO 33692 --- [ch12-mcp-server-stdio-datetime] [main] com.example.demo.DemoApplication         : Started DemoApplication in 2.891 seconds (process running for 3.846)
